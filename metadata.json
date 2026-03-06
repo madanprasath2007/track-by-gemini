@@ -1,0 +1,7 @@
+{
+  "name": "UniTrack: College Bus Live Tracking",
+  "description": "A production-ready real-time bus tracking system for students and drivers, featuring live GPS updates, interactive maps, and AI-powered route analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
